@@ -1,0 +1,17 @@
+body{
+    background-color: #edeef1;
+    
+}
+.logo{
+    padding-left: 80px;
+}
+.navegacao{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;  
+    padding-left: 330px;
+}
+.rodape{
+    font-size: 10px;
+    padding-left: 604px;
+
+}

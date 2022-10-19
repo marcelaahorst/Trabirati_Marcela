@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(233, 242, 247) ;
+    color: rgb(6, 6, 95);
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color: rgb(248, 252, 255);
+    
+}
+.nav_nav{
+    margin-left: 800px;
+}
+h1{
+    padding-left: 500px;
+    color: rgb(6, 6, 95);
+}
+h3{
+    color: rgb(3, 79, 109);
+    padding-left: 50px;
+}
+p{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+ol{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.tabela{
+    padding-left: 50px;
+}
+.hino{
+    float: right;
+    margin: 15px 0px 25px 2px;
+}

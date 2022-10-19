@@ -1,0 +1,22 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+}
+h1{
+    padding-left: 480px;
+    color: rgb(6, 6, 95);
+}
+p{
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.nav_nav{
+    margin-left: 800px;
+
+}
+header{
+    background-color: rgb(233, 242, 247) ;
+}
